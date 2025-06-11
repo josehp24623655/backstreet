@@ -31,7 +31,7 @@
           "artifact": {
             "size": 212608,
             "MD5": "e8de93b1e25fcb60d847b2565d35369c",
-            "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
+            "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 13577,
                 "MD5": "9cc72898a14a7d162d6813443761d30a",
-                "url": "http://localhost:8080/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
+                "url": "https://josehp24623655.github.io/backstreet/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 2773337,
                 "MD5": "521b6d8bfa23e4e00da77f4a07f01f8f",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 4214137,
                 "MD5": "8d8990d72f63d109f68fedf74182a3ea",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 11352644,
                 "MD5": "9e7bdbfed46a2e9996dd4ecd14d10ca7",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 9118806,
                 "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 8428369,
                 "MD5": "dbed747390f81e10cee40500b726431a",
-                "url": "http://localhost:8080/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
               },
               "subModules": []
             },
@@ -111,7 +111,7 @@
               "artifact": {
                 "size": 121790,
                 "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
               }
             },
             {
@@ -121,7 +121,7 @@
               "artifact": {
                 "size": 72641,
                 "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
               }
             },
             {
@@ -131,7 +131,7 @@
               "artifact": {
                 "size": 52662,
                 "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
               }
             },
             {
@@ -141,7 +141,7 @@
               "artifact": {
                 "size": 84679,
                 "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
               }
             },
             {
@@ -151,7 +151,7 @@
               "artifact": {
                 "size": 34257,
                 "MD5": "f0e82941173b6049c03e8214ace70ecd",
-                "url": "http://localhost:8080/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
               }
             },
             {
@@ -161,7 +161,7 @@
               "artifact": {
                 "size": 126747,
                 "MD5": "b6ba74224a6a68e6fb3e9cf3d72b9344",
-                "url": "http://localhost:8080/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
               }
             },
             {
@@ -171,7 +171,7 @@
               "artifact": {
                 "size": 2113,
                 "MD5": "d19b487241008d8e6111137a289ea1d7",
-                "url": "http://localhost:8080/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
               }
             },
             {
@@ -181,7 +181,7 @@
               "artifact": {
                 "size": 76586,
                 "MD5": "ada4c365c3d0de73c05a94010432b547",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
               }
             },
             {
@@ -191,7 +191,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "http://localhost:8080/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -201,7 +201,7 @@
               "artifact": {
                 "size": 42873,
                 "MD5": "84c4758e6139b70146104be5bb1300b5",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
               }
             },
             {
@@ -211,7 +211,7 @@
               "artifact": {
                 "size": 20172,
                 "MD5": "8f1f6942d17d88d704324e8000666a1a",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
               }
             },
             {
@@ -221,7 +221,7 @@
               "artifact": {
                 "size": 25453,
                 "MD5": "e56551f2586d3ff08beb24f5ea44a7d3",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
               }
             },
             {
@@ -231,7 +231,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -241,7 +241,7 @@
               "artifact": {
                 "size": 199091,
                 "MD5": "093b0ca357d3f8b922170b8d7f43948c",
-                "url": "http://localhost:8080/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
               }
             },
             {
@@ -251,7 +251,7 @@
               "artifact": {
                 "size": 31288,
                 "MD5": "615b8e62371c536f876764591990118d",
-                "url": "http://localhost:8080/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
               }
             },
             {
@@ -261,7 +261,7 @@
               "artifact": {
                 "size": 732926,
                 "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
-                "url": "http://localhost:8080/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
               }
             },
             {
@@ -271,7 +271,7 @@
               "artifact": {
                 "size": 57824,
                 "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
-                "url": "http://localhost:8080/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
               }
             },
             {
@@ -281,7 +281,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "http://localhost:8080/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -291,7 +291,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "http://localhost:8080/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -301,7 +301,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "http://localhost:8080/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -311,7 +311,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "http://localhost:8080/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             },
             {
@@ -321,7 +321,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "http://localhost:8080/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -331,7 +331,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "http://localhost:8080/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -341,7 +341,7 @@
               "artifact": {
                 "size": 1069391,
                 "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
-                "url": "http://localhost:8080/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
             {
@@ -351,7 +351,7 @@
               "artifact": {
                 "size": 2194057,
                 "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
-                "url": "http://localhost:8080/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
+                "url": "https://josehp24623655.github.io/backstreet/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
               }
             }
           ]
@@ -362,7 +362,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 551889,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/architectury-1.32.68.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/architectury-1.32.68.jar",
             "MD5": "74a431a4f1a32ec5bbb4bfeb120887c6"
           }
         },
@@ -372,7 +372,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2100583,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/CasinoCraft_1.16.5_v19.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/CasinoCraft_1.16.5_v19.jar",
             "MD5": "69b2a84454af1c3bf25ba0419f73978e"
           }
         },
@@ -382,7 +382,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12457390,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220515.jar",
             "MD5": "9d204b1c5dd8cdbe9737fbdc761f33d9"
           }
         },
@@ -392,7 +392,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 108557,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/ferritecore-2.1.1-forge.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/ferritecore-2.1.1-forge.jar",
             "MD5": "6a96a36de00e5d8e9bf2e87634d13125"
           }
         },
@@ -402,7 +402,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 585125,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/ftb-library-forge-1605.3.4-build.90.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/ftb-library-forge-1605.3.4-build.90.jar",
             "MD5": "88b4c3497d1aa260481bd74e464a3d70"
           }
         },
@@ -412,7 +412,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 953257,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/ftb-quests-forge-1605.3.7-build.165.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/ftb-quests-forge-1605.3.7-build.165.jar",
             "MD5": "27b560d2862ce959435dfedeebcf741e"
           }
         },
@@ -422,7 +422,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 171679,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/ftb-teams-forge-1605.2.3-build.40.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/ftb-teams-forge-1605.2.3-build.40.jar",
             "MD5": "08d807589127eac26626d36ac36d1b21"
           }
         },
@@ -432,7 +432,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 106801,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/item-filters-forge-1605.2.5-build.9.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/item-filters-forge-1605.2.5-build.9.jar",
             "MD5": "6e81a16049d7f2a6996cd1b0e97a3b03"
           }
         },
@@ -442,7 +442,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 33763,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/Lucky77_1.16.5_v01.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/Lucky77_1.16.5_v01.jar",
             "MD5": "e71afcd9e06b1d46bd7b8d7152fb21c5"
           }
         },
@@ -452,7 +452,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2423903,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/PixelTweaks-1.10.6.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/PixelTweaks-1.10.6.jar",
             "MD5": "9de0d99fef62700dbcb538355b618d58"
           }
         },
@@ -462,7 +462,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4308739,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/worldedit-forge-mc1.16.3-7.2.1-dist.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/worldedit-forge-mc1.16.3-7.2.1-dist.jar",
             "MD5": "b0b00906202660fff7524c1fc66585d6"
           }
         },
@@ -472,7 +472,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1602976,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/forgemods/required/Xaeros_Minimap_25.2.6_Forge_1.16.5.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/forgemods/required/Xaeros_Minimap_25.2.6_Forge_1.16.5.jar",
             "MD5": "e8fee364627324cb5cd1e0db1bee8752"
           }
         },
@@ -482,7 +482,7 @@
           "type": "File",
           "artifact": {
             "size": 426245568,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/files/mods/Pixelmon-1.16.5-9.1.13-universal.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/files/mods/Pixelmon-1.16.5-9.1.13-universal.jar",
             "MD5": "8e2b5afd761d1be3dc4e7e06f09e634e",
             "path": "mods/Pixelmon-1.16.5-9.1.13-universal.jar"
           }
@@ -493,7 +493,7 @@
           "type": "File",
           "artifact": {
             "size": 10245,
-            "url": "http://localhost:8080/servers/backstreet-1.16.5/files/mods/randomstarters-1-0.jar",
+            "url": "https://josehp24623655.github.io/backstreet/servers/backstreet-1.16.5/files/mods/randomstarters-1-0.jar",
             "MD5": "c59077b1caa5b55b802946f302e1cd87",
             "path": "mods/randomstarters-1-0.jar"
           }
